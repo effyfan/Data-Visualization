@@ -1,0 +1,36 @@
+html, body {
+  margin: 5;
+  padding: 0;
+  font-family: arial;
+  text-align: center;
+  color: darkgray;
+}
+h1{
+  font-size: 40pt;
+  margin: 0;
+}
+
+.firstRow {
+  display: inline-block;
+  margin-bottom: 5pt;
+}
+
+#para{
+  color: lightgrey;
+  font-size: 12pt;
+  margin: 0;
+  text-align: left;
+}
+#valueInput{
+  color: lightgrey;
+  bottom: -13px;
+}
+#enterButton{
+  height:18px;
+  width:56px;
+  background-color: lightgray;
+}
+#enterButton p {
+    color: #fff;
+    margin: 0;
+}
